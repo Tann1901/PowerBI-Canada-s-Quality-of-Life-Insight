@@ -91,33 +91,53 @@ On the other hand, in the Prosperity domain, the poverty rate has increased and 
 
 ## References
 Society 
+
 https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810019101 
+
 https://www150.statcan.gc.ca/t1/tbl1/en/cv!recreate.action?pid=4510007101
+
 https://www150.statcan.gc.ca/t1/tbl1/en/cv!recreate.action?pid=4510001401
+
 https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=4310006401
 
 
 Environment
+
 https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3810009701 
+
 https://sdgcif-data-canada-oddcic-donnee.github.io/13-3-1/ 
+
 https://www.canada.ca/en/environment-climate-change/services/environmental-indicators/boil-water-advisories.html 
+
 https://www.canada.ca/en/environment-climate-change/services/environmental-indicators/conserved-areas.html 
 
 Health
+
 https://www160.statcan.gc.ca/health-sante/mental-health-sante-mentale-eng.htm
+
 https://www160.statcan.gc.ca/health-sante/health-care-soins-sante-eng.htm
+
 https://www160.statcan.gc.ca/health-sante/expectancy-esperance-eng.htm
+
 https://www.canada.ca/en/public-health/services/publications/health-risks-safety/provincial-territorial-child-protection-legislation-policy-2018.html#t1
 
 Prosperity
+
 https://www160.statcan.gc.ca/prosperity-prosperite/household-income-revenu-menage-eng.htm 
+
 https://www160.statcan.gc.ca/prosperity-prosperite/employment-emploi-eng.htm 
+
 https://www160.statcan.gc.ca/prosperity-prosperite/neet-eng.htm 
+
 https://www160.statcan.gc.ca/prosperity-prosperite/wages-salaires-eng.htm 
 
 Good Governance
+
 https://www160.statcan.gc.ca/good-governance-saine-gouvernance/crime-severity-index-indice-gravite-criminalite-eng.htm 
+
 https://www160.statcan.gc.ca/good-governance-saine-gouvernance/childhood-maltreatment-mauvais-traitements-enfance-eng.htm 
+
 https://www160.statcan.gc.ca/good-governance-saine-gouvernance/institutions-eng.htm 
+
 https://www160.statcan.gc.ca/good-governance-saine-gouvernance/incarceration-rate-taux-incarceration-eng.htm 
 
