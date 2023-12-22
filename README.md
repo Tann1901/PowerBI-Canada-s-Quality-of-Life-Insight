@@ -38,7 +38,7 @@ The data underscores the importance of tailored strategies to address healthcare
 ## Environment 
 ![image](https://github.com/Tann1901/PowerBI-Canada-s-Quality-of-Life-Insight/assets/108020327/c5d552e4-f675-4b97-9d90-d46c50f286f8)
 
-In the environment report, we discussed 4 indicators which include greenhouse gas emissions,  climate change adaptation, drinking water and conserved areas with 4 distinct charts.
+In the environment report, I discussed 4 indicators which include greenhouse gas emissions,  climate change adaptation, drinking water and conserved areas with 4 distinct charts.
 
 In terms of Greenhouse gas emissions in different regions of Canada, in a 5-year period, Ontario is the province with the highest number of households, followed by Quebec, it shows that the greenhouse gas emissions and the population size are aligned. Alberta is the province with the highest emissions in industries. New Brunswick, Newfoundland, Northwest Territories, and Manitoba, account for a minimal share of emissions in both graphs because they are not rich enough in population and industrial resources.
 
@@ -49,7 +49,7 @@ Concerning conserved areas, crucial for biodiversity preservation, Canada record
 ## Prosperity
 ![image](https://github.com/Tann1901/PowerBI-Canada-s-Quality-of-Life-Insight/assets/108020327/83fd670b-06f2-42c6-9d51-962a45221e7b)
 
-The material well-being of Canadians is grounded in the opportunities coming from a thriving and innovative economy. Essential factors include the affordability of necessities like housing, food, and utilities, coupled with a sense of financial security in both unforeseen circumstances and retirement. All of these make up the prosperity domain and measure economic success. For this report, we focus on the following subdomains:
+The material well-being of Canadians is grounded in the opportunities coming from a thriving and innovative economy. Essential factors include the affordability of necessities like housing, food, and utilities, coupled with a sense of financial security in both unforeseen circumstances and retirement. All of these make up the prosperity domain and measure economic success. For this report, I focus on the following subdomains:
 Youth in employment with or without education
 Wages based on industry
 Household debts
@@ -80,7 +80,7 @@ The chart in the upper-right corner illustrates the percentage of Canadians surv
 
 The Crime severity chart visualizes the quantity of crime reported to the police (violent and non-violent crime) and their relative severity. It highlights its rate from 2018-2022 ( 75 index value) and shows a dip in 2020 (73); which possibly is due to the pandemic and lockdowns and subsequent peak after 2022, a time when the economy experienced re-opening post-pandemic. While the crime severity index has fluctuated, the violent crime index has seen a steady rise and peak in 2022. This is explained possibly by the rise in population since 2018.
 
-Finally under good governance is the confidence in public institutions which measures to what extent the public and citizens are confident in the activities of public institutions. For this report, we focused on police service, justice systems and courts and the federal parliament. It's important to highlight that individuals within the black visible minority group consistently reported the lowest average confidence levels. The reason for this trend requires further investigation and analysis to understand the specific factors contributing to lower confidence within the black visible minority demographic. Additional research and examination of socio-economic, cultural, and systemic influences may provide insights into the root causes of this observed pattern.
+Finally under good governance is the confidence in public institutions which measures to what extent the public and citizens are confident in the activities of public institutions. For this report, I focused on police service, justice systems and courts and the federal parliament. It's important to highlight that individuals within the black visible minority group consistently reported the lowest average confidence levels. The reason for this trend requires further investigation and analysis to understand the specific factors contributing to lower confidence within the black visible minority demographic. Additional research and examination of socio-economic, cultural, and systemic influences may provide insights into the root causes of this observed pattern.
 
 ## Challenge
 It was important and Challenging for this report how the key indicators for each domain of The Quality of Life (QoL) Framework were selected and presented in a way that best characterizes each domain and gives validity to the message. In addition, the surveys conducted for this report were carried out over different periods, which may result in inconsistencies in certain values. These variations in time frames could potentially influence the current overview and should be taken into consideration when interpreting the findings.
